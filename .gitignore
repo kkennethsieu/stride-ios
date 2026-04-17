@@ -1,0 +1,84 @@
+# ========================
+# Xcode
+# ========================
+
+# Build output
+build/
+DerivedData/
+
+# User-specific Xcode settings
+xcuserdata/
+*.xcuserstate
+
+# Xcode workspace user settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Xcode legacy stuff
+*.moved-aside
+*.xccheckout
+
+# ========================
+# Swift Package Manager
+# ========================
+
+.build/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+# Resolved packages — commit this if you want reproducible builds
+# Package.resolved
+
+# ========================
+# CocoaPods (if you ever add it)
+# ========================
+
+Pods/
+*.xcworkspace
+
+# ========================
+# Firebase
+# ========================
+
+# Contains your Firebase project credentials
+# Re-download from Firebase console when setting up a new machine
+GoogleService-Info.plist
+
+# ========================
+# Secrets & Config
+# ========================
+
+*.xcconfig
+!default.xcconfig
+Secrets.plist
+.env
+
+# ========================
+# macOS
+# ========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ========================
+# Fastlane (if you add it later)
+# ========================
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# ========================
+# Misc
+# ========================
+
+*.orig
+*.log
