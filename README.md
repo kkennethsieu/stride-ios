@@ -6,9 +6,25 @@ A Nike Run Club clone for iOS built with SwiftUI. Features live GPS run tracking
 
 ---
 
+<p align="center">
+  <img src="screenshots/Logo.gif" width="120" alt="Stride logo" />
+</p>
+
+---
+
 ## Demo
 
-> _(Add a GIF or screenshot here)_
+<p align="center">
+  <img src="screenshots/getstarted.gif" width="200" alt="Onboarding" />
+  &nbsp;&nbsp;
+  <img src="screenshots/login_page.PNG" width="200" alt="Login" />
+  &nbsp;&nbsp;
+  <img src="screenshots/activity_page.PNG" width="200" alt="Activity feed" />
+  &nbsp;&nbsp;
+  <img src="screenshots/finished_run.gif" width="200" alt="Finished run" />
+  &nbsp;&nbsp;
+  <img src="screenshots/active_run.gif" width="200" alt="Active run" />
+</p>
 
 ---
 
